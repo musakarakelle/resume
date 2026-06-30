@@ -9,7 +9,7 @@
 
 <p align="left">
   <a href="mailto:musakarakelle@gmail.com"><img src="https://img.shields.io/badge/Email-musakarakelle%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email"></a>
-  <a href="tel:+4917688045157"><img src="https://img.shields.io/badge/Phone-%2B90%20536%20422%202436-green?style=flat-square&logo=whatsapp" alt="Phone"></a>
+  <a href="tel:+4917688045157"><img src="https://img.shields.io/badge/Phone-%2B49%20176%20880%2045157-green?style=flat-square&logo=whatsapp" alt="Phone"></a>
   <a href="https://www.linkedin.com/in/musa-karakelle-4318691b"><img src="https://img.shields.io/badge/LinkedIn-Musa%20Karakelle-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
   <img src="https://img.shields.io/badge/Location-Istanbul%2C%20Turkey-red?style=flat-square" alt="Location">
 </p>

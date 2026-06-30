@@ -1,22 +1,5 @@
 # 🧠 MUSA KARAKELLE
 ### **Principal Software Architect | Agentic SDLC & Cloud Orchestrator**
-
-```json
-{
-  "status": "OPERATIONAL",
-  "current_focus": [
-    "Enterprise Azure Governance",
-    "Agentic SDLC Orchestration",
-    "Front-Office Architecture Decision Making"
-  ],
-  "ai_agents_deployed": {
-    "coding": ["Claude Code", "GitHub Copilot"],
-    "workflows": ["Multi-Agent Skill Flows", "Automated Issue-to-PR Gates"]
-  },
-  "horizon_interests": ["Autonomous Robotic Swarms", "Space Mining Architectures"]
-}
-> *“Orchestrating the next generation of software development: Where robust cloud infrastructure, secure front-office decisions, and autonomous AI-agent workflows converge into high-performance systems.”*
-
 ---
 
 ## 🌐 CONTACT & NETWORKING
